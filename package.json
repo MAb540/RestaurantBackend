@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "constantinople": "^4.0.1",
-    "cookie-parser": "~1.4.5",
     "cors": "^2.8.5",
     "debug": "^4.1.1",
     "dotenv": "^10.0.0",
